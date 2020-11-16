@@ -1,1 +1,2 @@
-# Data-Visualization
+# DataVisualization
+## Repo of Data Visualization Projects
